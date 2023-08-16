@@ -1,0 +1,15 @@
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\bin\Debug\net7.0\Gestão de Labels.exe
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\bin\Debug\net7.0\Gestão de Labels.deps.json
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\bin\Debug\net7.0\Gestão de Labels.runtimeconfig.json
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\bin\Debug\net7.0\Gestão de Labels.dll
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\bin\Debug\net7.0\Gestão de Labels.pdb
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\obj\Debug\net7.0\Gestão de Labels.csproj.AssemblyReference.cache
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\obj\Debug\net7.0\Gestão de Labels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\obj\Debug\net7.0\Gestão de Labels.AssemblyInfoInputs.cache
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\obj\Debug\net7.0\Gestão de Labels.AssemblyInfo.cs
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\obj\Debug\net7.0\Gestão de Labels.csproj.CoreCompileInputs.cache
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\obj\Debug\net7.0\Gestão de Labels.dll
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\obj\Debug\net7.0\refint\Gestão de Labels.dll
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\obj\Debug\net7.0\Gestão de Labels.pdb
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\obj\Debug\net7.0\Gestão de Labels.genruntimeconfig.cache
+C:\Users\xedua\OneDrive\Área de Trabalho\Gestão de Labels\Gestão de Labels\obj\Debug\net7.0\ref\Gestão de Labels.dll
