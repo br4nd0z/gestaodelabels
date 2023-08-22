@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xedua\\OneDrive\\Área de Trabalho\\Gestão de Labels\\Gestão de Labels\\Gestão de Labels.csproj",
-      "projectName": "Gestão de Labels",
-      "projectPath": "C:\\Users\\xedua\\OneDrive\\Área de Trabalho\\Gestão de Labels\\Gestão de Labels\\Gestão de Labels.csproj",
+      "projectUniqueName": "C:\\Users\\xedua\\OneDrive\\Área de Trabalho\\Gestão de Labels\\Gestão de Labels\\GestaoLabels.csproj",
+      "projectName": "GestaoLabels",
+      "projectPath": "C:\\Users\\xedua\\OneDrive\\Área de Trabalho\\Gestão de Labels\\Gestão de Labels\\GestaoLabels.csproj",
       "packagesPath": "C:\\Users\\xedua\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\xedua\\OneDrive\\Área de Trabalho\\Gestão de Labels\\Gestão de Labels\\obj\\",
       "projectStyle": "PackageReference",
